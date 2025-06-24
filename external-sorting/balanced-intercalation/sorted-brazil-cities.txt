@@ -1,0 +1,977 @@
+Abadia de Goiás
+Aceguá
+Aceguá
+Adamantina
+Afonso Cunha
+Agrolândia
+Agrolândia
+Agrolândia
+Agudos do Sul
+Alcântara
+Aldeias Altas
+Alegrete
+Alfenas
+Almirante Tamandaré
+Alta Floresta
+Alta Floresta d'Oeste
+Alta Floresta d'Oeste
+Alto Alegre
+Alto Parnaíba
+Alvorada
+Alvorada d'Oeste
+Alvorada d'Oeste
+Alvorada do Gurguéia
+Amajari
+Amambai
+Americana
+Anapurus
+Anastácio
+Anastácio
+Anastácio
+Anaurilândia
+Anaurilândia
+Andradas
+Andradina
+Angra dos Reis
+Angélica
+Antonio João
+Antônio Almeida
+Antônio João
+Anápolis
+Aparecida de Goiânia
+Aparecida de Goiânia
+Aparecida do Taboado
+Aparecida do Taboado
+Apicum-Açu
+Apiúna
+Apiúna
+Apiúna
+Apiúna
+Apucarana
+Aquidauana
+Aquidauana
+Aquidauana
+Aracaju
+Aragoiânia
+Araguari
+Araioses
+Araioses
+Aral Moreira
+Aral Moreira
+Arapongas
+Araquari
+Araquari
+Araranguá
+Araraquara
+Araricá
+Araricá
+Araruama
+Araucária
+Araxá
+Araçatuba
+Ariquemes
+Ariquemes
+Armação dos Búzios
+Arraial do Cabo
+Arroio Grande
+Arroio do Padre
+Arroio do Sal
+Ascurra
+Ascurra
+Ascurra
+Ascurra
+Assis
+Atlântida
+Axixá
+Bacabeira
+Bagé
+Bagé
+Bagé
+Baixa Grande do Ribeiro
+Baixa Grande do Ribeiro
+Balneário Barra do Sul
+Balneário Barra do Sul
+Balneário Camboriú
+Balneário Pinhal
+Balneário Pinhal
+Balneário Piçarras
+Bandeirantes
+Barbacena
+Barra Mansa
+Barra Velha
+Barra Velha
+Barra do Garças
+Barra do Piraí
+Barra do Ribeiro
+Barreiras do Piauí
+Barreiras do Piauí
+Barreirinhas
+Barretos
+Barão de Melgaço
+Bastos
+Bataguassu
+Bataguassu
+Bauru
+Bela Vista
+Bela Vista
+Bela Vista de Goiás
+Bela Vista do Toldo
+Belford Roxo
+Belo Horizonte
+Belém
+Benedito Novo
+Benedito Novo
+Benedito Novo
+Benedito Novo
+Bento Gonçalves
+Bequimão
+Betim
+Birigui
+Blumenau
+Blumenau
+Blumenau
+Blumenau
+Blumenau
+Boa Esperança
+Boa Vista
+Bocaiúva do Sul
+Bodoquena
+Bodoquena
+Bom Jesus
+Bonfim
+Bonfinópolis
+Bonito
+Bonito
+Bonito
+Botucatu
+Brasilândia
+Brasilândia
+Brasília
+Brasópolis
+Brazópolis
+Braço do Trombudo
+Braço do Trombudo
+Braço do Trombudo
+Brejo
+Brusque
+Buriti
+Buritis
+Buritis
+Caarapó
+Cabixi
+Cabixi
+Cabo Frio
+Cachoeira Grande
+Cachoeira do Sul
+Cachoeiras de Macacu
+Cachoeirinha
+Cacoal
+Cacoal
+Cajazeiras do Piauí
+Caldas Novas
+Camapuã
+Camaquã
+Campina Grande do Sul
+Campinas
+Campo Alegre
+Campo Belo
+Campo Bom
+Campo Bom
+Campo Grande
+Campo Grande
+Campo Largo
+Campo Novo de Rondônia
+Campo Novo de Rondônia
+Campo Novo do Parecis
+Campo Verde
+Campo do Tenente
+Campos Gerais
+Campos dos Goytacazes
+Canarana
+Candeias do Jamari
+Candeias do Jamari
+Candiota
+Candiota
+Canguçu
+Canoas
+Canoas
+Canoinhas
+Canoinhas
+Cantá
+Capela de Santana
+Capão da Canoa
+Capão do Leão
+Caracaraí
+Caracol
+Caracol
+Carapicuíba
+Caratinga
+Caroebe
+Cascavel
+Casimiro de Abreu
+Cassilândia
+Castanheiras
+Castanheiras
+Castilho
+Cataguases
+Catalão
+Caxias
+Caxias do Sul
+Caçador
+Caçador
+Caçapava do Sul
+Central do Maranhão
+Cerejeiras
+Cerejeiras
+Ceres
+Cerrito
+Chapadinha
+Chapadão do Sul
+Chapecó
+Chupinguaia
+Chupinguaia
+Chuí
+Cidade Ocidental
+Cidreira
+Cidreira
+Codó
+Coelho Neto
+Colombo
+Colorado do Oeste
+Colorado do Oeste
+Colíder
+Concórdia
+Confresa
+Conselheiro Lafaiete
+Contagem
+Corguinho
+Corguinho
+Coroatá
+Coronel Fabriciano
+Coronel Sapucaia
+Coronel Sapucaia
+Corrente
+Corrente
+Corumbiara
+Corumbiara
+Corumbá
+Corumbá
+Corupá
+Costa Marques
+Costa Marques
+Costa Rica
+Coxim
+Coxim
+Coxim
+Criciúma
+Cristal
+Cristalina
+Cristalândia do Piauí
+Cristalândia do Piauí
+Cruz Alta
+Cuiabá
+Cujubim
+Cujubim
+Curimatá
+Curitiba
+Currais
+Cururupu
+Curvelo
+Cáceres
+Delfim Moreira
+Deodápolis
+Diadema
+Diamantina
+Diamantino
+Divinópolis
+Dois Irmãos
+Dois Irmãos
+Dois Irmãos do Buriti
+Dois Irmãos do Buriti
+Dois Irmãos do Buriti
+Dom Aquino
+Dom Pedrito
+Dom Pedrito
+Dom Pedro
+Dona Emma
+Dona Emma
+Dona Emma
+Douradina
+Dourados
+Dourados
+Doutor Pedrinho
+Doutor Pedrinho
+Doutor Pedrinho
+Doutor Pedrinho
+Dracena
+Duque Bacelar
+Duque de Caxias
+Eldorado
+Eldorado
+Eldorado do Sul
+Eliseu Martins
+Elói Mendes
+Engenheiro Paulo de Frontin
+Erechim
+Esperantinópolis
+Espigão d'Oeste
+Espigão d'Oeste
+Esteio
+Esteio
+Estância Velha
+Estância Velha
+Extrema
+Fazenda Rio Grande
+Fernando Falcão
+Figueirão
+Figueirão
+Florianópolis
+Flórida Paulista
+Formiga
+Formigueiro
+Formosa
+Formosa da Serra Negra
+Fortaleza
+Fortuna
+Foz do Iguaçu
+Franca
+Fátima do Sul
+Garuva
+Gaspar
+Gaspar
+Gaspar
+Gilbués
+Gilbués
+Glória de Dourados
+Goianira
+Goianira
+Goianésia
+Goiás
+Goiânia
+Goiânia
+Gonçalves
+Gonçalves Dias
+Governador Jorge Teixeira
+Governador Jorge Teixeira
+Governador Valadares
+Grajaú
+Gravataí
+Guabiruba
+Guabiruba
+Guajará-Mirim
+Guajará-Mirim
+Guapimirim
+Guaramirim
+Guaramirim
+Guarantã do Norte
+Guarapuava
+Guaraçaí
+Guarujá
+Guarulhos
+Guaíba
+Guaíba
+Guia Lopes da Laguna
+Guia Lopes da Laguna
+Harmonia
+Herval
+Hidrolândia
+Hidrolândia
+Hortolândia
+Hulha Negra
+Hulha Negra
+Humberto de Campos
+Humberto de Campos
+Ibirama
+Ibirama
+Ibirama
+Ibirama
+Ibirité
+Icatu
+Iguaba Grande
+Iguatemi
+Iguatemi
+Ijuí
+Ilha Solteira
+Ilhota
+Ilhota
+Imbé
+Indaial
+Indaial
+Indaial
+Indaial
+Indaial
+Indaiatuba
+Inhumas
+Inocência
+Ipatinga
+Iracema
+Irapuru
+Irineópolis
+Itabira
+Itaboraí
+Itaiópolis
+Itajaí
+Itajaí
+Itajubá
+Itaporã
+Itapura
+Itapuã do Oeste
+Itapuã do Oeste
+Itaquaquecetuba
+Itaquiraí
+Itatiaia
+Ituiutaba
+Itumbiara
+Ituporanga
+Ituporanga
+Ituporanga
+Ituporanga
+Ivinhema
+Ivoti
+Ivoti
+Jaciara
+Jaguarão
+Japeri
+Jaraguari
+Jardim
+Jardim
+Jardim
+Jaru
+Jaru
+Jataí
+Jateí
+Jaú
+Jenipapo dos Vieiras
+Ji-Paraná
+Ji-Paraná
+Joaçaba
+Joinville
+Joinville
+José Boiteux
+José Boiteux
+José Boiteux
+João Monlevade
+João Pessoa
+Juiz de Fora
+Jundiaí
+Junqueirópolis
+Juscimeira
+Juti
+Juína
+Ladário
+Lages
+Lago da Pedra
+Lagoa do Mato
+Lagoa do Mato
+Laguna
+Laguna Carapã
+Lapa
+Lavras
+Lavras do Sul
+Leopoldina
+Leopoldo de Bulhões
+Lima Campos
+Limeira
+Lins
+Londrina
+Lontras
+Lontras
+Lontras
+Lontras
+Loreto
+Lucas do Rio Verde
+Lucélia
+Luiz Alves
+Luiz Alves
+Luziânia
+Macapá
+Macaé
+Maceió
+Machadinho d'Oeste
+Machadinho d'Oeste
+Machado
+Mafra
+Mafra
+Magé
+Major Vieira
+Manaus
+Mandirituba
+Manhuaçu
+Manoel Emídio
+Maracaju
+Maracaju
+Maria da Fé
+Mariana
+Maricá
+Maringá
+Marília
+Massaranduba
+Mata Roma
+Matupá
+Matões
+Matões do Norte
+Mauá
+Mendes
+Mesquita
+Miguel Pereira
+Milagres do Maranhão
+Mineiros
+Ministro Andreazza
+Ministro Andreazza
+Mirador
+Mirador
+Miranda
+Miranda
+Miranda
+Mirandópolis
+Mirante da Serra
+Mirante da Serra
+Mirante da Serra
+Mirante da Serra
+Mirassol d'Oeste
+Mirinzal
+Monte Alegre do Piauí
+Monte Alegre do Piauí
+Monte Castelo
+Monte Castelo
+Monte Verde
+Montenegro
+Montes Claros
+Morro Cabeça no Tempo
+Morro Redondo
+Morro Reuter
+Morro Reuter
+Morros
+Mostardas
+Mostardas
+Mucajaí
+Mundo Novo
+Mundo Novo
+Muriaé
+Murutinga do Sul
+Natal
+Navegantes
+Naviraí
+Naviraí
+Nazário
+Nerópolis
+Nilópolis
+Nioaque
+Nioaque
+Niterói
+Normandia
+Nossa Senhora do Livramento
+Nova Alvorada do Sul
+Nova Alvorada do Sul
+Nova Alvorada do Sul
+Nova Andradina
+Nova Brasilândia d'Oeste
+Nova Brasilândia d'Oeste
+Nova Friburgo
+Nova Hartz
+Nova Hartz
+Nova Iguaçu
+Nova Independência
+Nova Lima
+Nova Mutum
+Novo Gama
+Novo Hamburgo
+Novo Hamburgo
+Novo Hamburgo
+Novo Horizonte do Oeste
+Novo Horizonte do Oeste
+Novo Horizonte do Sul
+Osasco
+Osvaldo Cruz
+Osório
+Ourinhos
+Ouro Preto
+Ouro Preto do Oeste
+Ouro Preto do Oeste
+Ouro Verde
+Pacaraima
+Palhoça
+Palmares do Sul
+Palmares do Sul
+Palmas
+Palmeira do Piauí
+Panorama
+Papanduva
+Paracambi
+Paracatu
+Paraibano
+Paranaguá
+Paranatinga
+Paranavaí
+Paranaíba
+Paranhos
+Paranhos
+Parapuã
+Pareci Novo
+Parecis
+Parecis
+Parnarama
+Parobé
+Parobé
+Pará de Minas
+Passagem Franca
+Passagem Franca
+Passo Fundo
+Passos
+Patos de Minas
+Paty do Alferes
+Paulicéia
+Paulino Neves
+Paulínia
+Paço do Lumiar
+Pedras Altas
+Pedro Gomes
+Pedro Gomes
+Pedro Osório
+Pelotas
+Pelotas
+Pelotas
+Penalva
+Penha
+Pereira Barreto
+Peritoró
+Petrolândia
+Petrolândia
+Petrolândia
+Petrópolis
+Pimenta Bueno
+Pimenta Bueno
+Pinhais
+Pinheiral
+Pinheiro Machado
+Pinheiro Machado
+Piracanjuba
+Piracicaba
+Piranguinho
+Piraquara
+Piratini
+Piên
+Planaltina
+Poconé
+Pomerode
+Pomerode
+Pomerode
+Pomerode
+Pomerode
+Pomerode
+Pomerode
+Pomerode
+Ponta Grossa
+Ponta Porã
+Ponta Porã
+Ponte Nova
+Pontes e Lacerda
+Porangatu
+Porto Alegre
+Porto Alegre
+Porto Murtinho
+Porto Murtinho
+Porto Real
+Porto União
+Porto Velho
+Porto Velho
+Portão
+Portão
+Pouso Alegre
+Poxoréu
+Poços de Caldas
+Presidente Dutra
+Presidente Epitácio
+Presidente Getúlio
+Presidente Getúlio
+Presidente Getúlio
+Presidente Juscelino
+Presidente Lucena
+Presidente Lucena
+Presidente Médici
+Presidente Médici
+Presidente Nereu
+Presidente Nereu
+Presidente Nereu
+Presidente Prudente
+Primavera de Rondônia
+Primavera de Rondônia
+Primavera do Leste
+Primeira Cruz
+Primeira Cruz
+Quatis
+Quatro Barras
+Queimados
+Quintão
+Quirinópolis
+Quitandinha
+Raposa
+Recife
+Redenção do Gurguéia
+Resende
+Riacho Frio
+Riachão
+Riachão
+Ribas do Rio Pardo
+Ribas do Rio Pardo
+Ribeiro Gonçalves
+Ribeiro Gonçalves
+Ribeirão Preto
+Ribeirão das Neves
+Rinópolis
+Rio Bonito
+Rio Branco
+Rio Brilhante
+Rio Brilhante
+Rio Brilhante
+Rio Claro
+Rio Crespo
+Rio Crespo
+Rio Grande
+Rio Grande
+Rio Grande
+Rio Negrinho
+Rio Negro
+Rio Verde
+Rio das Ostras
+Rio de Janeiro
+Rio do Oeste
+Rio do Oeste
+Rio do Oeste
+Rio do Sul
+Rio do Sul
+Riozinho
+Riozinho
+Rochedo
+Rochedo
+Rochedo
+Rodeio
+Rodeio
+Rodeio
+Rodeio
+Rolante
+Rolante
+Rolim de Moura
+Rolim de Moura
+Rondonópolis
+Rorainópolis
+Rosário
+Rosário do Sul
+Sabará
+Sagres
+Salete
+Salete
+Salete
+Salvador
+Sambaíba
+Santa Cruz do Sul
+Santa Filomena
+Santa Filomena
+Santa Luzia
+Santa Luzia
+Santa Luzia d'Oeste
+Santa Luzia d'Oeste
+Santa Margarida do Sul
+Santa Maria
+Santa Maria do Boiaçu
+Santa Mercedes
+Santa Rita
+Santa Rita do Pardo
+Santa Rita do Pardo
+Santa Vitória do Palmar
+Santana do Livramento
+Santana do Livramento
+Santana do Maranhão
+Santana do Maranhão
+Santo Amaro do Maranhão
+Santo André
+Santo Antônio do Descoberto
+Santo Antônio do Leverger
+Santos
+Sapezal
+Sapucaia do Sul
+Sapucaia do Sul
+Sapucaí-Mirim
+Saquarema
+Schroeder
+Schroeder
+Selvíria
+Senador Alexandre Costa
+Senador Canedo
+Senador Canedo
+Senador Hélio Campos
+Sentinela do Sul
+Seringueiras
+Seringueiras
+Seropédica
+Serrano do Maranhão
+Sete Lagoas
+Sete Quedas
+Sete Quedas
+Sidrolândia
+Sidrolândia
+Sidrolândia
+Silva Jardim
+Sinop
+Sonora
+Sonora
+Sorocaba
+Sorriso
+Sucupira do Norte
+Sucupira do Riachão
+Sud Mennucci
+Sumaré
+Surumu
+Suzano
+São Bento do Sul
+São Bento do Sul
+São Bernardo
+São Bernardo
+São Bernardo do Campo
+São Borja
+São Carlos
+São Domingos do Azeitão
+São Felipe d'Oeste
+São Felipe d'Oeste
+São Francisco do Guaporé
+São Francisco do Guaporé
+São Francisco do Sul
+São Francisco do Sul
+São Gabriel
+São Gabriel do Oeste
+São Gabriel do Oeste
+São Gonçalo
+São Gonçalo do Gurguéia
+São José
+São José de Ribamar
+São José do Norte
+São José do Norte
+São José do Povo
+São José dos Campos
+São José dos Pinhais
+São José dos Pinhais
+São João da Baliza
+São João de Meriti
+São João del Rei
+São Leopoldo
+São Leopoldo
+São Leopoldo
+São Lourenço do Sul
+São Luiz
+São Luís
+São Luís
+São Luís de Montes Belos
+São Mateus do Maranhão
+São Miguel do Guaporé
+São Miguel do Guaporé
+São Paulo
+São Pedro da Aldeia
+São Raimundo das Mangabeiras
+São Roberto
+São Sebastião do Caí
+São Sebastião do Paraíso
+São Sepé
+Sítio Novo
+Tacuru
+Tacuru
+Taiano
+Taió
+Taió
+Taió
+Taió
+Tangará da Serra
+Tanguá
+Tanguá
+Tapes
+Taquara
+Taquara
+Taquarussu
+Tasso Fragoso
+Taubaté
+Tavares
+Tavares
+Terenos
+Terenos
+Terenos
+Teresina
+Teófilo Otoni
+Theobroma
+Theobroma
+Tijucas do Sul
+Timbiras
+Timbó
+Timbó
+Timbó
+Timbó
+Timbó
+Timbó
+Timbó
+Timon
+Timóteo
+Toledo
+Toledo
+Torres
+Tramandaí
+Trindade
+Trindade
+Trombudo Central
+Trombudo Central
+Trombudo Central
+Três Barras
+Três Corações
+Três Lagoas
+Três Lagoas
+Três Lagoas
+Três Pontas
+Tubarão
+Tunas do Paraná
+Tupi Paulista
+Tupã
+Turuçu
+Tutóia
+Uberaba
+Uberlândia
+Ubá
+Uiramutã
+Umuarama
+Urbano Santos
+Uruguaiana
+Urupá
+Urupá
+Uruçuí
+Uruçuí
+Vale do Anari
+Vale do Anari
+Vale do Paraíso
+Vale do Paraíso
+Valença
+Valparaíso
+Valparaíso de Goiás
+Varginha
+Vassouras
+Vespasiano
+Viamão
+Viana
+Vicentina
+Videira
+Vila Rica
+Vilhena
+Vilhena
+Vitor Meireles
+Vitor Meireles
+Vitor Meireles
+Vitória
+Viçosa
+Volta Redonda
+Várzea Grande
+Wenceslau Braz
+Witmarsum
+Witmarsum
+Witmarsum
+Xangri-lá
+Xanxerê
+Xapuri
+Água Boa
+Água Clara
+Água Clara
+Águas Lindas de Goiás
