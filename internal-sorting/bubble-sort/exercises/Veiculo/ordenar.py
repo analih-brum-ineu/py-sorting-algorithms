@@ -8,8 +8,6 @@ def ordenar(veiculos):
                 temp = veiculos[j]
                 veiculos[j] = veiculos[j + 1]
                 veiculos[j + 1] = temp
-
     for v in veiculos:
         print(f"{v.get_ano()} - {v.get_marca()} - {v.get_cor()}")
-
     return veiculos
