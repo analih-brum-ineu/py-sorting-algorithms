@@ -1,7 +1,6 @@
 from armazenar import armazenar
 
 def ordenar(veiculos):
-    # Bubble Sort decrescente com base no ano do veículo
     for i in range(len(veiculos) - 1, 0, -1):
         for j in range(i):
             if veiculos[j].get_ano() < veiculos[j + 1].get_ano():
